@@ -1,0 +1,3 @@
+uptime 
+who
+uname -r
